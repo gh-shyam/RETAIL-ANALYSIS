@@ -1,5 +1,6 @@
 # This is a sample Python script.
 # changes on feature1 branch and merging it to main
+# edit new line in main github
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
